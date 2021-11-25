@@ -436,7 +436,7 @@ p {
 }
 
 /* Certificate */
-#certificates {
+/* #certificates {
     background-color: var(--color-light-white);   
 }
 
@@ -479,7 +479,7 @@ p {
 
 .certificate__speech-bubble a {
     color: var(--color-cobalt);
-}
+} */
 
 /* Contact */
 #contact {
@@ -595,7 +595,7 @@ p {
         flex-grow: 1;
     }
     
-    .certificate {
+    /* .certificate {
         flex-direction: column;
         align-items: center;
         margin: 32px 0px;
@@ -618,7 +618,7 @@ p {
 
     .certificate__speech-bubble p {
         font-size: var(--font-nano);
-    }
+    } */
 
     .arrow-up {
         width: 50px;
