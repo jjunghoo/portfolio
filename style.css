@@ -117,7 +117,7 @@ p {
 
 #navbar.navbar--dark {
   background-color: var(--color-cobalt);
-  padding: 0 16px;
+  padding: 0 32px;
 }
 
 .navbar__menu {
